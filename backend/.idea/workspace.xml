@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17bf717f-0191-47b4-ae25-bf561f6f1239" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/resume_matcher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mohamed Yasir's CV-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mohamed Yasir's CV-1_9a9bnmN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mohamed Yasir's CV-1_L7oOynH.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mohamed Yasir's CV-1_bbjDiNQ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mohamed Yasir's CV-1_fyk4ZIt.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mohamed Yasir's CV-1_xnhy8kN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/management/commands/runserver_custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume_matcher/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume_matcher/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume_matcher/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume_matcher/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resume_matcher/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resumes/Mohamed_Yasirs_CV-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resumes/Mohamed_Yasirs_CV3.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2n6Q473pdXHemZYUdzYSCoSH2gj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Project Files/PyCharm Projects/resume-matcher-frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="resume_matcher" type="Python.DjangoServer" factoryName="Django server">
+      <module name="resume_matcher" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17bf717f-0191-47b4-ae25-bf561f6f1239" name="Changes" comment="" />
+      <created>1728290851566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728290851566</updated>
+      <workItem from="1728290854053" duration="5412000" />
+      <workItem from="1728304322388" duration="11262000" />
+      <workItem from="1728565769825" duration="1043000" />
+      <workItem from="1728606869886" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
